@@ -348,7 +348,7 @@ const Index = () => {
             <div>
               <Icon name="MapPin" size={24} className="mx-auto mb-2" />
               <p className="font-semibold">Адрес</p>
-              <p>Деревня Традиции, д. 15</p>
+              <p>Клубная улица, 15, посёлок Советский, Каменский сельсовет, Новосибирский район, 630529</p>
             </div>
             <div>
               <Icon name="Clock" size={24} className="mx-auto mb-2" />
