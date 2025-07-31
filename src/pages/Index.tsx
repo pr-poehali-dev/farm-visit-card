@@ -122,7 +122,7 @@ const Index = () => {
         <div className="max-w-6xl mx-auto">
           <div className="flex justify-between items-center">
             <div>
-              <h1 className="text-3xl font-bold mb-2">Фермерское хозяйство "Русские традиции"</h1>
+              <h1 className="text-3xl font-bold mb-2">Фермерское хозяйство "Подворье"</h1>
               <p className="text-lg opacity-90">Натуральные продукты с душой</p>
             </div>
             <div className="relative">
@@ -357,7 +357,7 @@ const Index = () => {
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-primary-foreground/20">
-            <p>&copy; 2024 Фермерское хозяйство "Русские традиции"</p>
+            <p>&copy; 2024 Фермерское хозяйство "Подворье"</p>
           </div>
         </div>
       </footer>
