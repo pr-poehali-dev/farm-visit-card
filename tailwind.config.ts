@@ -18,7 +18,13 @@ export default {
 			}
 		},
 		extend: {
+			fontFamily: {
+				'merriweather': ['Merriweather', 'serif'],
+			},
 			colors: {
+				'farm-brown': '#8B4513',
+				'farm-green': '#228B22',
+				'farm-beige': '#F5DEB3',
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
